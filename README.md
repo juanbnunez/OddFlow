@@ -29,7 +29,7 @@ Please refer to the [LICENSE](https://github.com/juanbnunez/OddFlow/blob/main/LI
 
 1. Clone this repository.
    ```
-   git clone https://github.com/your-username/OddFlow.git
+   git clone https://github.com/juanbnunez/OddFlow.git
    ```
    
 2. Follow the installation instructions specific to each module (request-handling in Go and client implementation in F#)
