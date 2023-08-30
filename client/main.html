@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Song Player</title>
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Add links to your CSS and JavaScript files here -->
+</head>
+
+<body>
+    <header>
+        <h1>Song Player</h1>
+    </header>
+    <main>
+        <section id="search-section">
+            <h2>Search Songs</h2>
+            <!-- Add your search fields here -->
+        </section>
+        
+        <section id="playlist-section">
+            <h2>Playlists</h2>
+            <button id="create-playlist">Create Playlist</button>
+            <div id="playlists">
+                <!-- Display playlists here -->
+            </div>
+        </section>
+        
+        <section id="current-song-section">
+            <h2>Current Song</h2>
+            <div id="current-song-info">
+                <!-- Display current song information here -->
+            </div>
+            <div id="player-controls">
+                <button id="backward">Backward</button>
+                <button id="play">Play</button>
+                <button id="forward">Forward</button>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>© 2023 Your Company. All rights reserved.</p>
+    </footer>
+    <!-- Add your JavaScript scripts at the end of the body -->
+
+    <script>
+        // Obtén una referencia al botón "Create Playlist"
+         const createPlaylistButton = document.getElementById('create-playlist');
+     
+         // Agrega un evento de clic al botón
+         createPlaylistButton.addEventListener('click', function() {
+            window.location.href = 'playList.html';
+         });
+     
+     </script>
+
+
+
+</body>
+</html>
