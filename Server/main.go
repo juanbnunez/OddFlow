@@ -1,17 +1,24 @@
 package main
 
 import (
-	"Server/server"
+	"Server/playlist"
 )
 
 func main() {
-	//musicserver
-	_, err := server.NewMusicServer("localhost:8080")
-	if err != nil {
-		// Manejar el error
-		return
-	}
 
-	// Iniciar la gestión de solicitudes del servidor
-	// Por ejemplo, aceptar conexiones y manejar las solicitudes de los clientes
+	// Set the project directory path
+	projectDir := "D:\\TEC\\ProyectoLenguajes\\OddFlow"
+
+	// Get the absolute path of the "Music" folder relative to the executable's location
+	musicFolder := "Music"
+
+	// Crear una instancia de la playlist
+	myPlaylist := playlist.NewPlaylist()
+
+	// Agregar canciones desde el directorio de música
+	myPlaylist.ValidateSong(projectDir, musicFolder)
+
+	// Imprimir la lista de canciones
+	myPlaylist.BrowsePlayList()
+
 }
