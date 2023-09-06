@@ -1,0 +1,692 @@
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/appsettings.Development.json
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/appsettings.json
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/Properties/launchSettings.json
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/SpotifyCry.staticwebassets.runtime.json
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/SpotifyCry.exe
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/SpotifyCry.deps.json
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/SpotifyCry.runtimeconfig.json
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/SpotifyCry.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/SpotifyCry.pdb
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authentication.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authorization.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Components.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Components.Server.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Components.Web.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Cors.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.DataProtection.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Hosting.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.Features.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.Results.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.HttpLogging.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Identity.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Localization.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Metadata.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.OutputCaching.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.RateLimiting.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Razor.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.RequestDecompression.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Rewrite.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Routing.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Session.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.SignalR.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.WebSockets.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.CSharp.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Caching.Memory.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.Json.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.DependencyInjection.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Features.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Hosting.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Http.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Identity.Core.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Identity.Stores.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Localization.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.Console.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.Debug.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.ObjectPool.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Options.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Primitives.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.WebEncoders.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.JSInterop.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Net.Http.Headers.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.VisualBasic.Core.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.VisualBasic.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Win32.Primitives.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Win32.Registry.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/mscorlib.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/netstandard.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.AppContext.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Buffers.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Collections.Concurrent.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Collections.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Collections.Immutable.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Collections.NonGeneric.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Collections.Specialized.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.ComponentModel.Annotations.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.ComponentModel.DataAnnotations.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.ComponentModel.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.ComponentModel.EventBasedAsync.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.ComponentModel.Primitives.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.ComponentModel.TypeConverter.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Configuration.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Console.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Core.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Data.Common.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Data.DataSetExtensions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Data.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Diagnostics.Contracts.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Diagnostics.Debug.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Diagnostics.DiagnosticSource.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Diagnostics.EventLog.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Diagnostics.FileVersionInfo.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Diagnostics.Process.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Diagnostics.StackTrace.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Diagnostics.Tools.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Diagnostics.TraceSource.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Diagnostics.Tracing.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Drawing.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Drawing.Primitives.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Dynamic.Runtime.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Formats.Asn1.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Formats.Tar.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Globalization.Calendars.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Globalization.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Globalization.Extensions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.Compression.Brotli.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.Compression.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.Compression.FileSystem.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.Compression.ZipFile.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.FileSystem.AccessControl.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.FileSystem.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.FileSystem.DriveInfo.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.FileSystem.Primitives.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.FileSystem.Watcher.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.IsolatedStorage.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.MemoryMappedFiles.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.Pipelines.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.Pipes.AccessControl.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.Pipes.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.UnmanagedMemoryStream.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Linq.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Linq.Expressions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Linq.Parallel.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Linq.Queryable.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Memory.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.Http.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.Http.Json.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.HttpListener.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.Mail.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.NameResolution.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.NetworkInformation.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.Ping.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.Primitives.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.Quic.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.Requests.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.Security.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.ServicePoint.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.Sockets.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.WebClient.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.WebHeaderCollection.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.WebProxy.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.WebSockets.Client.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.WebSockets.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Numerics.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Numerics.Vectors.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.ObjectModel.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Reflection.DispatchProxy.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Reflection.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Reflection.Emit.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Reflection.Emit.ILGeneration.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Reflection.Emit.Lightweight.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Reflection.Extensions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Reflection.Metadata.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Reflection.Primitives.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Reflection.TypeExtensions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Resources.Reader.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Resources.ResourceManager.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Resources.Writer.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.CompilerServices.VisualC.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.Extensions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.Handles.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.InteropServices.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.InteropServices.JavaScript.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.Intrinsics.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.Loader.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.Numerics.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.Serialization.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.Serialization.Formatters.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.Serialization.Json.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.Serialization.Primitives.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.Serialization.Xml.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.AccessControl.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.Claims.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.Cryptography.Algorithms.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.Cryptography.Cng.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.Cryptography.Csp.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.Cryptography.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.Cryptography.Encoding.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.Cryptography.OpenSsl.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.Cryptography.Primitives.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.Cryptography.X509Certificates.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.Cryptography.Xml.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.Principal.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.Principal.Windows.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.SecureString.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.ServiceModel.Web.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.ServiceProcess.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Text.Encoding.CodePages.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Text.Encoding.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Text.Encoding.Extensions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Text.Encodings.Web.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Text.Json.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Text.RegularExpressions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Threading.Channels.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Threading.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Threading.Overlapped.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Threading.RateLimiting.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Threading.Tasks.Dataflow.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Threading.Tasks.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Threading.Tasks.Extensions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Threading.Tasks.Parallel.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Threading.Thread.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Threading.ThreadPool.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Threading.Timer.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Transactions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Transactions.Local.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.ValueTuple.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Web.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Web.HttpUtility.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Windows.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Xml.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Xml.Linq.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Xml.ReaderWriter.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Xml.Serialization.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Xml.XDocument.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Xml.XmlDocument.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Xml.XmlSerializer.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Xml.XPath.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Xml.XPath.XDocument.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/WindowsBase.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/FSharp.Core.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/Microsoft.AspNetCore.Razor.Language.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/Microsoft.CodeAnalysis.Razor.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/cs/FSharp.Core.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/de/FSharp.Core.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/es/FSharp.Core.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/fr/FSharp.Core.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/it/FSharp.Core.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/ja/FSharp.Core.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/ko/FSharp.Core.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/pl/FSharp.Core.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/pt-BR/FSharp.Core.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/ru/FSharp.Core.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/tr/FSharp.Core.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/zh-Hans/FSharp.Core.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/zh-Hant/FSharp.Core.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/obj/Debug/net7.0/SpotifyCry.fsproj.AssemblyReference.cache
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/obj/Debug/net7.0/SpotifyCry.AssemblyInfoInputs.cache
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/obj/Debug/net7.0/SpotifyCry.AssemblyInfo.fs
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/obj/Debug/net7.0/SpotifyCry.fsproj.CoreCompileInputs.cache
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/obj/Debug/net7.0/SpotifyCry.MvcApplicationPartsAssemblyInfo.fs
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/obj/Debug/net7.0/SpotifyCry.MvcApplicationPartsAssemblyInfo.cache
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/obj/Debug/net7.0/staticwebassets/msbuild.SpotifyCry.Microsoft.AspNetCore.StaticWebAssets.props
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/obj/Debug/net7.0/staticwebassets/msbuild.build.SpotifyCry.props
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.SpotifyCry.props
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.SpotifyCry.props
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/obj/Debug/net7.0/staticwebassets.pack.json
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/obj/Debug/net7.0/staticwebassets.build.json
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/obj/Debug/net7.0/staticwebassets.development.json
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/obj/Debug/net7.0/scopedcss/bundle/SpotifyCry.styles.css
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/obj/Debug/net7.0/SpotifyCry.fsproj.CopyComplete
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/obj/Debug/net7.0/SpotifyCry.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/obj/Debug/net7.0/refint/SpotifyCry.dll
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/obj/Debug/net7.0/SpotifyCry.pdb
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/obj/Debug/net7.0/SpotifyCry.genruntimeconfig.cache
+D:/TEC/Lenguajes/SpotifyCry/SpotifyCry/obj/Debug/net7.0/ref/SpotifyCry.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/appsettings.Development.json
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/appsettings.json
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/launchSettings.json
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/SpotifyCry.staticwebassets.runtime.json
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/SpotifyCry
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/SpotifyCry.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/SpotifyCry.pdb
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authentication.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authorization.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Components.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Components.Server.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Components.Web.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Cors.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.DataProtection.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Hosting.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.Features.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.Results.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.HttpLogging.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Identity.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Localization.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Metadata.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.OutputCaching.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.RateLimiting.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Razor.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.RequestDecompression.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Rewrite.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Routing.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Session.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.SignalR.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.WebSockets.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.CSharp.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Caching.Memory.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.Json.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.DependencyInjection.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Features.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Hosting.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Http.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Identity.Core.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Identity.Stores.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Localization.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.Console.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.Debug.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.ObjectPool.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Options.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.Primitives.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Extensions.WebEncoders.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.JSInterop.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Net.Http.Headers.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.VisualBasic.Core.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.VisualBasic.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Win32.Primitives.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/Microsoft.Win32.Registry.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/mscorlib.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/netstandard.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.AppContext.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Buffers.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Collections.Concurrent.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Collections.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Collections.Immutable.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Collections.NonGeneric.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Collections.Specialized.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.ComponentModel.Annotations.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.ComponentModel.DataAnnotations.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.ComponentModel.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.ComponentModel.EventBasedAsync.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.ComponentModel.Primitives.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.ComponentModel.TypeConverter.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Configuration.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Console.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Core.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Data.Common.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Data.DataSetExtensions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Data.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Diagnostics.Contracts.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Diagnostics.Debug.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Diagnostics.DiagnosticSource.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Diagnostics.EventLog.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Diagnostics.FileVersionInfo.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Diagnostics.Process.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Diagnostics.StackTrace.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Diagnostics.Tools.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Diagnostics.TraceSource.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Diagnostics.Tracing.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Drawing.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Drawing.Primitives.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Dynamic.Runtime.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Formats.Asn1.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Formats.Tar.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Globalization.Calendars.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Globalization.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Globalization.Extensions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.Compression.Brotli.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.Compression.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.Compression.FileSystem.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.Compression.ZipFile.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.FileSystem.AccessControl.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.FileSystem.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.FileSystem.DriveInfo.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.FileSystem.Primitives.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.FileSystem.Watcher.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.IsolatedStorage.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.MemoryMappedFiles.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.Pipelines.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.Pipes.AccessControl.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.Pipes.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.IO.UnmanagedMemoryStream.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Linq.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Linq.Expressions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Linq.Parallel.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Linq.Queryable.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Memory.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.Http.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.Http.Json.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.HttpListener.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.Mail.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.NameResolution.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.NetworkInformation.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.Ping.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.Primitives.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.Quic.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.Requests.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.Security.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.ServicePoint.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.Sockets.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.WebClient.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.WebHeaderCollection.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.WebProxy.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.WebSockets.Client.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Net.WebSockets.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Numerics.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Numerics.Vectors.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.ObjectModel.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Reflection.DispatchProxy.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Reflection.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Reflection.Emit.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Reflection.Emit.ILGeneration.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Reflection.Emit.Lightweight.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Reflection.Extensions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Reflection.Metadata.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Reflection.Primitives.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Reflection.TypeExtensions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Resources.Reader.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Resources.ResourceManager.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Resources.Writer.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.CompilerServices.VisualC.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.Extensions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.Handles.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.InteropServices.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.InteropServices.JavaScript.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.Intrinsics.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.Loader.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.Numerics.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.Serialization.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.Serialization.Formatters.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.Serialization.Json.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.Serialization.Primitives.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Runtime.Serialization.Xml.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.AccessControl.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.Claims.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.Cryptography.Algorithms.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.Cryptography.Cng.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.Cryptography.Csp.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.Cryptography.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.Cryptography.Encoding.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.Cryptography.OpenSsl.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.Cryptography.Primitives.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.Cryptography.X509Certificates.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.Cryptography.Xml.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.Principal.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.Principal.Windows.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Security.SecureString.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.ServiceModel.Web.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.ServiceProcess.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Text.Encoding.CodePages.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Text.Encoding.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Text.Encoding.Extensions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Text.Encodings.Web.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Text.Json.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Text.RegularExpressions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Threading.Channels.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Threading.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Threading.Overlapped.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Threading.RateLimiting.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Threading.Tasks.Dataflow.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Threading.Tasks.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Threading.Tasks.Extensions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Threading.Tasks.Parallel.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Threading.Thread.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Threading.ThreadPool.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Threading.Timer.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Transactions.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Transactions.Local.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.ValueTuple.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Web.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Web.HttpUtility.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Windows.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Xml.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Xml.Linq.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Xml.ReaderWriter.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Xml.Serialization.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Xml.XDocument.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Xml.XmlDocument.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Xml.XmlSerializer.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Xml.XPath.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/System.Xml.XPath.XDocument.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/bin/Debug/net7.0/refs/WindowsBase.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/obj/Debug/net7.0/SpotifyCry.fsproj.AssemblyReference.cache
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/obj/Debug/net7.0/SpotifyCry.AssemblyInfoInputs.cache
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/obj/Debug/net7.0/SpotifyCry.AssemblyInfo.fs
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/obj/Debug/net7.0/SpotifyCry.fsproj.CoreCompileInputs.cache
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/obj/Debug/net7.0/SpotifyCry.MvcApplicationPartsAssemblyInfo.fs
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/obj/Debug/net7.0/SpotifyCry.MvcApplicationPartsAssemblyInfo.cache
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/obj/Debug/net7.0/staticwebassets/msbuild.SpotifyCry.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/obj/Debug/net7.0/staticwebassets/msbuild.build.SpotifyCry.props
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.SpotifyCry.props
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.SpotifyCry.props
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/obj/Debug/net7.0/staticwebassets.build.json
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/obj/Debug/net7.0/staticwebassets.development.json
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/obj/Debug/net7.0/scopedcss/bundle/SpotifyCry.styles.css
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/obj/Debug/net7.0/SpotifyCry.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/obj/Debug/net7.0/refint/SpotifyCry.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Proyecto1/OddFlow/SpotifyCry/SpotifyCry/obj/Debug/net7.0/SpotifyCry.pdb

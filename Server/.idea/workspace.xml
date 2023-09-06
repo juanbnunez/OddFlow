@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="8610c3e6-f317-4206-9527-161a7973e76f" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/communication/communication.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
@@ -11,6 +12,9 @@
       <change afterPath="$PROJECT_DIR$/server/server.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/song/song.go" afterDir="false" />
     </list>
+=======
+    <list default="true" id="8610c3e6-f317-4206-9527-161a7973e76f" name="Changes" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,9 +31,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+<<<<<<< Updated upstream
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
+=======
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+>>>>>>> Stashed changes
   <component name="ProjectId" id="2UiUtFwVhs23SvYT2OGhXcmkkWY" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,7 +58,11 @@
     "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
     "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
     "WebServerToolWindowFactoryState": "false",
+<<<<<<< Updated upstream
     "git-widget-placeholder": "JuanGo",
+=======
+    "git-widget-placeholder": "jennyCliente",
+>>>>>>> Stashed changes
     "go.import.settings.migrated": "true",
     "last_opened_file_path": "/Users/juannunez",
     "node.js.detected.package.eslint": "true",
