@@ -1,0 +1,83 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Song Player</title>
+</head>
+
+<body>
+
+@* <div class="startMusic"> *@
+@*     <audio controls class="musicPlayer"> *@
+@*         <source src="tu_cancion.mp3" type="audio/mpeg"> *@
+@*         Your browser does not support audio playback. *@
+@*     </audio> *@
+@*     <p>Select a song and press the play button..</p> *@
+@* </div> *@
+
+<div class="startMusic">
+    <audio controls class="musicPlayer" id="audioPlayer">
+        <source src="" type="audio/mpeg">
+        Your browser does not support audio playback.
+    </audio>
+    <p>Select a song and press the play button..</p>
+    <select id="songList">
+        <option value="Rooster - Telecasted.mp3">Rooster - Telecasted.mp3</option>
+        <option value="Calimba - E's Jammy Jams.mp3">Calimba - E's Jammy Jams.mp3</option>
+        <!-- Agrega más opciones para tus canciones aquí -->
+    </select>
+    <button id="playButton">Play</button>
+</div>
+
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const audioPlayer = document.getElementById("audioPlayer");
+        const songList = document.getElementById("songList");
+        const playButton = document.getElementById("playButton");
+
+       
+        // Función para cargar y reproducir una canción seleccionada
+        function playSelectedSong() {
+            const selectedSong = songList.value;
+            // Comenta o elimina la siguiente línea para evitar que el navegador cargue la canción directamente
+            // audioPlayer.src = selectedSong;
+            audioPlayer.play();
+        
+            // Enviar una solicitud al servidor Go para reproducir la canción seleccionada
+            sendPlayRequest(selectedSong);
+        }
+        
+        // Función para enviar una solicitud al servidor Go para reproducir una canción
+        function sendPlayRequest(songName) {
+            // Reemplaza 'tu_ip' y 'tu_puerto' con la dirección IP y el puerto de tu servidor Go
+            const serverAddress = "127.0.0.1";
+            const serverPort = "8000";
+
+            // Crea una solicitud HTTP
+            const xhr = new XMLHttpRequest();
+            xhr.open("GET", `http://${serverAddress}:${serverPort}/play/${songName}`, true);
+
+            // Maneja la respuesta del servidor (opcional)
+            xhr.onreadystatechange = function () {
+                if (xhr.readyState === 4 && xhr.status === 200) {
+                    console.log("Server response:", xhr.responseText);
+                }
+            };
+
+            // Envía la solicitud al servidor
+            xhr.send();
+        }
+
+        // Agrega un evento al botón de reproducción para que se reproduzca la canción seleccionada
+        playButton.addEventListener("click", playSelectedSong);
+    });
+</script>
+
+
+</body>
+</html>
